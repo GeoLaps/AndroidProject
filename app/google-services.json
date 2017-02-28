@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "973110885900",
+    "firebase_url": "https://geolaps-883ea.firebaseio.com",
+    "project_id": "geolaps-883ea",
+    "storage_bucket": "geolaps-883ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973110885900:android:5051ac28a9f8779f",
+        "android_client_info": {
+          "package_name": "co.edu.udea.pi.geolaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973110885900-1rpon7m7j983q3vi49nt7sb03t0aa8nd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.edu.udea.pi.geolaps",
+            "certificate_hash": "cc272a5739a42b2704756ba8bbe75e0cb0e3f012"
+          }
+        },
+        {
+          "client_id": "973110885900-i1m5mhg9a12in0vkij6645pp1dhq50ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3p0LkW801blBrrTa5DrfkeVjemXmoBCU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973110885900-i1m5mhg9a12in0vkij6645pp1dhq50ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
